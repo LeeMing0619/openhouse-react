@@ -1,0 +1,7 @@
+#Fri Oct 04 01:00:25 CST 2019
+base.0=D\:\\Project of Client\\React Native Project----Han\\OpenHouseVersion_ReactNative_2019_10_03\\OpenHouse\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Project of Client\\React Native Project----Han\\OpenHouseVersion_ReactNative_2019_10_03\\OpenHouse\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
