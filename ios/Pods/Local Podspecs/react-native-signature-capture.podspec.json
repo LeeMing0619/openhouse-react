@@ -1,0 +1,23 @@
+{
+  "name": "react-native-signature-capture",
+  "version": "0.4.10",
+  "summary": "Lets users sign their signatures",
+  "authors": {
+    "name": "RepairShopr"
+  },
+  "homepage": "https://github.com/RepairShopr/react-native-signature-capture#readme",
+  "license": "ISC",
+  "platforms": {
+    "ios": "8.4"
+  },
+  "source": {
+    "git": "https://github.com/RepairShopr/react-native-signature-capture",
+    "tag": "0.4.10"
+  },
+  "source_files": "ios/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

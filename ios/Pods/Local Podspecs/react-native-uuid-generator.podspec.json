@@ -1,0 +1,23 @@
+{
+  "name": "react-native-uuid-generator",
+  "version": "6.1.1",
+  "summary": "A simple wrapper around the native iOS and Android UUID classes for React Native",
+  "authors": {
+    "name": "Travis Nuttall"
+  },
+  "homepage": "https://github.com/Traviskn/react-native-uuid-generator#readme",
+  "license": "MIT",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/Traviskn/react-native-uuid-generator.git",
+    "tag": "6.1.1"
+  },
+  "source_files": "ios/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}
