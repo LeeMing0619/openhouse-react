@@ -14,7 +14,7 @@
     "axios-mock-adapter": "^1.16.0",
     "buffer": "^5.2.1",
     "image-downloader": "^3.5.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
     "native-base": "^2.8.1",
