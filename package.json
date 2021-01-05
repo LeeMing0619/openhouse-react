@@ -10,7 +10,7 @@
   "dependencies": {
     "@material-ui/core": "^3.9.0",
     "@react-native-community/async-storage": "github:react-native-community/async-storage",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "axios-mock-adapter": "^1.16.0",
     "buffer": "^5.2.1",
     "image-downloader": "^3.5.0",
