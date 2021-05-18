@@ -28,7 +28,7 @@
     "react-native-dialog-input": "^1.0.7",
     "react-native-elements": "^1.1.0",
     "react-native-email": "^1.0.2",
-    "react-native-fast-image": "^7.0.2",
+    "react-native-fast-image": "^8.3.0",
     "react-native-fs": "^2.14.1",
     "react-native-gesture-handler": "^1.0.12",
     "react-native-image-cache-hoc": "^2.0.0",
